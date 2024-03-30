@@ -19,9 +19,8 @@ git clone https://github.com/kleyio/React-calculator-lite.git
 
 ```bash
 cd React-calculator-lite
-```bash
 git clone https://github.com/kleyio/React-calculator-lite.git
-1. Clone the repository:
+
 ```
 3. Install the dependencies:
 ```bash
