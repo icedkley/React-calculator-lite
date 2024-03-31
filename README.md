@@ -27,7 +27,7 @@ git clone https://github.com/kleyio/React-calculator-lite.git
 npm install
 ```
 
-##Usage
+## Usage
 
 To start the development server, run:
 ```bash
@@ -48,7 +48,7 @@ To build the application production, run:
 npm run build
 ```
 
-##Deployment
+## Deployment
 
 The application is deployed on GitHub Pages. To deploy the latest changes, run:
 ```bash
