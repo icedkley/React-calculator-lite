@@ -2,6 +2,8 @@
 
 This is a simple calculator application built with React and Vite.
 
+Check out the live demo here: https://kleyio.github.io/React-calculator-lite/
+
 ## Features
 
 - Basic arithmetic operations: addition, subtraction, multiplication, division
